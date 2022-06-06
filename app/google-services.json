@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340259717650",
+    "project_id": "financial-accounting-97f42",
+    "storage_bucket": "financial-accounting-97f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340259717650:android:141d33bc2c674a2ad10ecb",
+        "android_client_info": {
+          "package_name": "com.example.kursovaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340259717650-8ie1t3kjg3dgp51gnbshnjojir5h2kjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kursovaya",
+            "certificate_hash": "bb1ef37a744c53147102de2f5e2c4b650e68d37e"
+          }
+        },
+        {
+          "client_id": "340259717650-7kas0hjiv43ke5thj3lejtkhu95o45kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTsH3vUxK7sZI-f8eZCdK7xlMoz_Uua8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340259717650-7kas0hjiv43ke5thj3lejtkhu95o45kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
